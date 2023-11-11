@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+### I'm starting out in this wonderful world of programming! 🌱
+### I would like to know more about programming! If you have any guide on how to get started, it would be very helpful! 🤔
 
 <!--
 **TheGregolasG/TheGregolasG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
